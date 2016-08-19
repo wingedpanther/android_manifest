@@ -9,7 +9,7 @@
     <project path="kernel/oneplus/msm8996" name="SlimRoms/kernel_oneplus_msm8996" remote="github" revision="mm6.0" />
 
     						<!-- Common Repo's -->
-    <project path="device/oppo/common" name="SlimRoms/device_oppo_common" remote="github" revision="mm6.0" />
+    <project path="device/oppo/common" name="CandyDevices/device_oppo_common" remote="github" revision="c6" />
     <project path="external/stlport" name="SlimRoms/android_external_stlport" remote="github" revision="mm6.0" />
     
         					<!-- NFC Repo's -->
