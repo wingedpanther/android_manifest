@@ -63,5 +63,6 @@
     <remove-project name="platform/hardware/intel/sensors" />
     <remove-project name="platform/hardware/marvell/bt" />
     <remove-project name="platform/hardware/mediatek" />
+    <remove-project name="platform/hardware/nvidia/audio" />
     
 </manifest>
