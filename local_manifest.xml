@@ -10,7 +10,8 @@
 
     						<!-- Common Repo's -->
     <project path="device/oppo/common" name="CandyDevices/device_oppo_common" remote="github" revision="c6" />
-    <project path="device/qcom/common" name="CandyRoms/device_qcom_common" remote="github" revision="c6" />
+    <remove-project name="CandyRoms/device_qcom_common" />
+    <project path="device/qcom/common" name="SlimRoms/device_qcom_common" remote="github" revision="mm6.0" />
     <project path="external/stlport" name="SlimRoms/android_external_stlport" remote="github" revision="mm6.0" />
     
         					<!-- NFC Repo's -->
