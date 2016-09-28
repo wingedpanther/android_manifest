@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-						<!-- OnePlus 3 -->
+						<!-- OnePlus -->
     <project path="device/oneplus/bacon" name="wingedpanther/device_oneplus_bacon" remote="github" revision="saosp" />
     <project path="vendor/oneplus" name="TheLoonyBin/proprietary_vendor_oneplus" remote="github" revision="mm6.0"/>
 
