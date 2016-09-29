@@ -11,6 +11,9 @@
     						<!-- Common Repo's -->
     <project path="device/oppo/common" name="SlimRoms/device_oppo_common" remote="github" revision="mm6.0" />
     <project path="external/stlport" name="SlimRoms/android_external_stlport" remote="github" revision="mm6.0" />
+    <project path="device/qcom/common" name="SlimRoms/device_qcom_common" remote="github" revision="mm6.0" />
+   <project path="device/qcom/secpolicy" name="SlimRoms/device_qcom_sepolicy" remote="github" revision="mm6.0" />
+	
     
         					<!-- NFC Repo's -->
     <project path="vendor/nxp-nfc/opensource/Nfc" name="SlimRoms/vendor_nxp-nfc_opensource_nfc" remote="github" revision="mm6.0" />
